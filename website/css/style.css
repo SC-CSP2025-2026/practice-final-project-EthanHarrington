@@ -76,7 +76,7 @@ h1 {
 /* =========================
    Movie Button
    ========================= */
-.movie-card button {
+.movie-card a {
   background: #ff9800;
   border: none;
   color: #000;
